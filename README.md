@@ -191,7 +191,7 @@ UPSTASH_TOKEN=your_token
 
 # 管理员账号
 USERNAME=admin
-PASSWORD=your_password
+AUTH_PASSWORD=your_password
 
 # 功能开关
 NEXT_PUBLIC_ENABLE_REGISTER=true
